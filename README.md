@@ -1,6 +1,6 @@
 # 🏀 Injury Detection & Recovery Duration Estimator
 
-A powerful **Streamlit app** powered by a fine-tuned **DistilBERT** transformer that predicts:
+A fine-tuned **DistilBERT** transformer that predicts:
 
 - 🔍 **Injury Type** (e.g., bone, muscle, joint, illness, concussion)
 - ⏳ **Recovery Duration**:  
