@@ -1,23 +1,3 @@
----
-title: 🏀 InjuryDetection
-emoji: 🏀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-  - streamlit
-  - transformers
-  - nlp
-  - pytorch
-  - nba
-  - healthcare
-  - sports
-pinned: false
-description: Predict NBA injury type and duration using a fine-tuned DistilBERT + structured features.
-
----
-
 # 🏀 Injury Detection & Recovery Duration Estimator
 
 A powerful **Streamlit app** powered by a fine-tuned **DistilBERT** transformer that predicts:
